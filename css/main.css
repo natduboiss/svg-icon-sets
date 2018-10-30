@@ -1,3 +1,12 @@
 html {
   font-family: "Overpass", sans-serif;
 }
+
+body {
+  background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
+  color: #fff;
+}
+
+.btn:hover {
+  color: #fff;
+}
