@@ -4,9 +4,28 @@ html {
 
 body {
   background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
+}
+
+h1 {
+  color: #fff;
+}
+
+h2 {
+  color: #fff;
+}
+
+p {
+  color: #fff;
+}
+
+.btn {
   color: #fff;
 }
 
 .btn:hover {
+  color: #fff;
+}
+
+.icon {
   color: #fff;
 }
