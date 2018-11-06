@@ -4,6 +4,7 @@ html {
 
 body {
   background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
+  background-color: rgba(255, 255, 255, 1);
 }
 
 h1 {
@@ -20,12 +21,19 @@ p {
 
 .btn {
   color: #fff;
+  border: 2px solid white;
 }
 
 .btn:hover {
-  color: #fff;
+  color: #ff5e3a;
+  background-color: #fff;
+  border: 2px solid white;
 }
 
 .icon {
   color: #fff;
+}
+
+hr {
+  border-color: #fff;
 }
